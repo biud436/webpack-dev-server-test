@@ -1,6 +1,6 @@
 # Introduction
 
-Pure Javascript (ES6 or more)를 위한 웹팩 개발 환경 구축 보일러플레이트입니다.
+Pure Javascript (ES6 or more) 최적화 빌드를 위한 웹팩 개발 환경 구축 보일러플레이트 파일입니다.
 
 ## Setup
 
@@ -25,3 +25,5 @@ to run the development server that is applied the webpack hot reload, run the fo
 ```bash
 yarn start
 ```
+
+https://codesandbox.io/s/dark-pine-npzx64?file=/src/StyledTreeExample.js
